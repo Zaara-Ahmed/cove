@@ -1,2 +1,2 @@
-# cove
-Data analytics project repo
+# DA Cove
+Data analytics practice project repo
