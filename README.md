@@ -1,2 +1,2 @@
 # cove
-Data analytics project repository
+Data analytics project repo
